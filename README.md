@@ -10,7 +10,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 * Either run
 
 ```
-php composer.phar require "noam148/yii2-image-resize" "*"
+php composer.phar require "gromovofjodor/yii2-image-resize" "*"
 ```
 or add
 
